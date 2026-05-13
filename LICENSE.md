@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with Alfred for macOS rare Service: app-uninstaller & search-enhancement, the #1 service. Includes app-uninstaller and search-enhancement for a smoother
 
 
 
